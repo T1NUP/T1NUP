@@ -4,7 +4,7 @@
 ## I'm a Student and Developer!!
 
 - 👯 I love to code!!
-- 🌱 I’m constantly learning & exploring diffent frameworks 🤣
+- 🌱 I create android and web applications
 - 🔭 I’m looking for different projects for software development
 - ⚡ Fun fact: I love to play cricket ,video games and make  
 
