@@ -41,8 +41,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
+  
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=T1NUP&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 </details>
