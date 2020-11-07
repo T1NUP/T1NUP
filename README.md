@@ -6,7 +6,7 @@
 - 👯 I love to code!!
 - 🌱 I create android and web applications
 - 🔭 I’m looking for different projects for software development
-- ⚡ Fun fact: I love to play cricket ,video games and make  
+- ⚡ Fun fact: I love to play cricket ,video games and make memes 
 
 
 ### Connect with me:
