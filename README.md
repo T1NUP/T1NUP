@@ -8,6 +8,7 @@
 - 🔭 I’m looking for different projects for software development
 - ⚡ Fun fact: I love to play cricket ,video games and make memes 
 
+<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"  />
 
 ### Connect with me:
 
